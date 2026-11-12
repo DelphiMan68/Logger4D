@@ -1,0 +1,19 @@
+# Delphi build output
+__history/
+__recovery/
+Win32/
+Win64/
+*.dcu
+*.exe
+*.dll
+*.map
+*.rsm
+*.tds
+*.drc
+*.local
+*.identcache
+*.stat
+*.res
+*.dproj.local
+# Generated bridge output
+*_delphi/
