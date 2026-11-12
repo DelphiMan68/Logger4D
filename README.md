@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Logger4D — A professional, thread-safe logging library for Delphi and Free Pascal." width="100%" />
+  <img src="Assets/banner.png" alt="Logger4D — A professional, thread-safe logging library for Delphi and Free Pascal." width="100%" />
 </div>
 
 # Logger4D
